@@ -177,7 +177,7 @@ h1{
     border:solid 1px black;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     height: 350px;         /* Le damos una altura fija para que todas las tarjetas se vean iguales */
     overflow-y: scroll;
 }
@@ -188,7 +188,7 @@ h1{
     border: solid 1px black;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     height: 350px; /* Le damos una altura fija para que todas las tarjetas se vean iguales */
 }
 
